@@ -1,6 +1,6 @@
 Hello
 
-This is the Autonomously Moving Actor from my blog
+This is the Autonomously Moving Actor from my blog : https://nicolasbun.blogspot.com/2019/04/c-opengl-autonomously-moving-actor.html
 
 To launch the application you need to create an "/ExternalRessources/" for Assimp, GLEW , GLFW and Freetype which are 3rd party are necessary
 for this project
