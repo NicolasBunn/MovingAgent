@@ -1,6 +1,6 @@
 Hello
 
-This is the Autonomously Moving Actor from my blog (https://www.blogger.com/blogger.g?tab=mj&blogID=2257700981765185880#allposts)
+This is the Autonomously Moving Actor from my blog
 
 To launch the application you need to create an "/ExternalRessources/" for Assimp, GLEW , GLFW and Freetype which are 3rd party are necessary
 for this project
